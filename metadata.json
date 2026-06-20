@@ -1,0 +1,6 @@
+{
+  "name": "Momisola Hotels",
+  "description": "Luxury hotel booking platform for Momisola Hotels. Features real-time room availability, secure booking, and loyalty rewards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
